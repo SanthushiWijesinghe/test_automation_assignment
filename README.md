@@ -39,7 +39,6 @@ This project includes:
 
 * Small (S) inputs
 * Medium (M) inputs
-* Large (L) inputs
 * Negative test cases
 * Singlish abbreviations
 * Numbers, dates, URLs, names, symbols, punctuation
@@ -50,5 +49,6 @@ This repository is publicly accessible for evaluation.
 
 ## Author
 
-Santhushi Wijesinghe
-BSc (Hons) Information Technology
+Santhushi Wijesinghe(IT23572492)
+WE04.02
+BSc (Hons) Information Technology 
